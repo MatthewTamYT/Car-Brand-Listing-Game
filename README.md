@@ -19,8 +19,6 @@ I use an IDE, PyCharm. This is because it has a great project management system 
   - What are the rules for contributing?
 - Contribution
   - How can you contribute to a project?
-  - Are there any rquirements for contributors?
-  - What are the rules for contributing?
 - Credits
   - Who helped?
 - Copyright License
