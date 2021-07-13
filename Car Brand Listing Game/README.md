@@ -18,6 +18,8 @@ I face many challenges. Because this is one of the rather complex piece of code 
   - Is there any installation process?
 - Using the project
   - How to use the project?
+- Contribution
+  - How can you contribute to the project?
   - Are there any requirements for contributors?
   - What are the rules for contributing?
 - Project Features
