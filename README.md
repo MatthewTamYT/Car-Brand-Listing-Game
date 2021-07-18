@@ -1,5 +1,6 @@
 # Python
 
+[![Stargazers repo roster for @MatthewTamYT/Python](https://reporoster.com/stars/MatthewTamYT/Python)](https://github.com/MatthewTamYT/Python/stargazers)
 
 ## **Description**
 #### What do I do here?
