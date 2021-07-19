@@ -1,5 +1,8 @@
 # Car Brand Listing Game
 
+[![Stargazers repo roster for @MatthewTamYT/Car-Brand-Listing-Game](https://reporoster.com/stars/MatthewTamYT/Car-Brand-Listing-Game)](https://github.com/MatthewTamYT/Car-Brand-Listing-Game/stargazers)
+
+[![Forkers repo roster for @MatthewTamYT/Car-Brand-Listing-Game](https://reporoster.com/forks/MatthewTamYT/Car-Brand-Listing-Game)](https://github.com/MatthewTamYT/Car-Brand-Listing-Game/network/members)
 
 ## **Description**
 #### What does the application do?
