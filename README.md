@@ -1,7 +1,10 @@
 # Car Brand Listing Game
 
-[Car Brand Listing Game Card Black and White](https://user-images.githubusercontent.com/87230771/126317758-27d9ee83-2618-4c64-b1dd-b112dc14be2c.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126321360-f4c4c3f9-1751-4957-9f62-992f4c4da31b.png" alt="drawing" width="700" class="center"/>
+<p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Car-Brand-Listing-Game?logo=GitHub"> 
+<img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Car-Brand-Listing-Game?logo=GitHub">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
+  
 [![Stargazers repo roster for @MatthewTamYT/Car-Brand-Listing-Game](https://reporoster.com/stars/MatthewTamYT/Car-Brand-Listing-Game)](https://github.com/MatthewTamYT/Car-Brand-Listing-Game/stargazers)
 
 [![Forkers repo roster for @MatthewTamYT/Car-Brand-Listing-Game](https://reporoster.com/forks/MatthewTamYT/Car-Brand-Listing-Game)](https://github.com/MatthewTamYT/Car-Brand-Listing-Game/network/members)
