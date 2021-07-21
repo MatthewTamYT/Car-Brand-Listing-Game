@@ -1,6 +1,5 @@
-# Car Brand Listing Game
-
-<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126321360-f4c4c3f9-1751-4957-9f62-992f4c4da31b.png" alt="drawing" width="700" class="center"/>
+# 🚗 Car Brand Listing Game
+<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126321360-f4c4c3f9-1751-4957-9f62-992f4c4da31b.png" alt="drawing" width="500" class="center"/>
 <p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Car-Brand-Listing-Game?logo=GitHub"> 
 <img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Car-Brand-Listing-Game?logo=GitHub">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
