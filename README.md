@@ -12,7 +12,7 @@
 #### What does the application do?
 The application is a listing game. In this game, you have to try list 30 car brands out of the available 50 to win.
 #### What technologies did I use?
-I used Python because it is easy-to-use. It delivers my purpose through straight forward lines of code. I also used an IDE, PyCharm. This is because it has a great project management system and is friendly to beginners (like me)!
+I used Python 3.9 because it is easy-to-use. It delivers my purpose through straight forward lines of code. I also used an IDE, PyCharm. This is because it has a great project management system and is friendly to beginners (like me)!
 #### What challenges did I face?
 I face many challenges. Because this is one of the rather complex piece of code I have written, I often confuse variables and loops. This caused many errors which I later fixed during the vigorous testing phase. I also struggled with popping the inputted value from one list to another, but eventually, I managed to see light at the end of the tunnel.
 
