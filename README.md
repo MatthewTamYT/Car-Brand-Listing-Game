@@ -42,15 +42,17 @@ I face many challenges. Because this is one of the rather complex piece of code 
 
 ## **Installation**
 #### Is there any installation process?
-No, this is because this game is **NOT** a software or an app. This game is simply a raw piece of Python code. However, you may need a special program to run Python. For long term use, I would recommend PyCharm. If you just want to run this code without going through the faffle of installing IDE software apps, I recommend replit on a web browser. Here are some links:
-- Computer Program: [PyCharm](https://www.jetbrains.com/pycharm/download/)
-- Computer Program: [Sublime Text](https://www.sublimetext.com/download)
-- Computer Program: [Microsoft Visual Studio Code](https://code.visualstudio.com/)
-- Web Browser: [Replit.com](https://replit.com/~) _**Remember, this is a free browser program. Just create a free lifetime account._
+Honestly, it depends. There are three ways you can download the file.
+ - The raw code: This enables you to see all the code. The downside is that you need a python interpreter for it to work. When you have your python interpreter installed, just copy the code and run the program.
+ - Base Application: If you are sure you already have Python and PyGame installed, you can just download this base application. There is another downside to this. You would need the file "car_brands.py" (also in the repo) in the same folder as this executable in order to run normally. However, if you do not have both Python and PyGame installed, then you need:
+ - Application with Python Files: You can download the application with all the necessary files. This means, even if your computer does not have Python or PyGame, you can just run through this simple installation process and still play the game. Besides, the file "car_brands.py" would already be implemented. (Installation only takes about 5 seconds, so this option is encouraged - 🌩️ speed)
 
 ## **Using the Project**
 #### How to use the project?
-Just run it. Again, this is a dead simple piece of raw code. It has no graphics user interface (at least not yet) and is extremely easy to use with the programs listed above.
+Again, it depends. 
+ If you chose the first option (raw code) from above, you would need a python interpreter, then just click on run. 
+ If you chose the second one , just click on the application and the game runs by itself (but you need "car_brands.py" in the same directory). 
+ If you chose the last one, click on the application, allow it to make changes and all that faffle, then follow the instructions. It won't take you longer than 20 seconds to do the whole installation process.
 
 ## **Contribution**
 #### How can you contribute to the project?
