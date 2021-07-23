@@ -92,4 +92,4 @@ However, please do not just take my code and claim it's yours.
 <br><br/>
 
 I am looking forward to making this code work better. So please be comfortable to open issues or contact me: *mtytteacher@gmail.com*
-{"mode":"full","isActive":false}
+
